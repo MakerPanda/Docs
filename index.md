@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Radxa Documents
+title: Welcome to MakerPanda
 ---
 
 # 新手入门
