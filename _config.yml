@@ -7,9 +7,9 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 瑞莎科技-Radxa
-  email: support@radxa.com
-  weibo: weibo.com/radxa
+  name: 太极熊科技-MakerPanda
+  email: makerpanda@163.com
+  weibo: 
   github: http://github.com/MakerPanda
 
 # 站点信息
@@ -27,4 +27,4 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: radxa-doc
+  shortname: makerpanda-doc
