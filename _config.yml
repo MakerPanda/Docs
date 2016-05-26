@@ -19,7 +19,7 @@ rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
 avatar: /public/img/viewfile.jpg
-favicon: /public/img/熊孩子-飞天.png
+favicon: /public/img/pandaFlying.png
 # google analytics 设置
 ga:
   #id: UA-54767140-1
